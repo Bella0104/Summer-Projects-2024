@@ -1,4 +1,4 @@
-# 📊 Database Systems Assignment – 93% Grade
+# 📊 Database Assignment – 93% Grade
 
 Welcome! This repository contains the full submission of my university database systems assignment, which earned a **93%** mark. The code, SQL scripts, and documentation found here demonstrate my practical understanding of relational databases, normalization, querying, and backend logic integration. This project is part of my academic portfolio and is featured on my CV.
 
