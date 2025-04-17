@@ -16,7 +16,7 @@ Welcome! This repository contains the full submission of my university database 
 
 ## 📌 Academic Context
 
-This was a graded assignment for Further Object-Orientated Progamming at University of Kent , simulating a real-world data scenario. All code in the `master` branch reflects the final, submitted version.
+This was a graded assignment for Further Object-Orientated Progamming at University of Kent , simulating a real-world data scenario. All code in the `Database Assignment` branch reflects the final, submitted version.
 
 ## 🧠 What I Learned
 
